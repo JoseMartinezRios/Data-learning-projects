@@ -34,7 +34,7 @@ Analysed a self made sample dataset to identify:
 2. Open the project folder you want to run
 3. Install the dependencies:
 
-  '''bash
+  ```bash
   pip install pandas matplotlib
 
 4. Run the Jupyter Notebook
@@ -46,7 +46,8 @@ Analysed a self made sample dataset to identify:
 - Using GitHub for project documentation
 
 **CONTACT**
+```
 [LindedIn](www.linkedin.com/in/jose-rios-31547a14a)
 [GitHub](https://github.com/JoseMartinezRios)
-[Facebook] (https://www.facebook.com/profile.php?id=100017951595037)
-[Instagram] (https://www.instagram.com/wine.rios/)
+[Facebook](https://www.facebook.com/profile.php?id=100017951595037)
+[Instagram](https://www.instagram.com/wine.rios/)
