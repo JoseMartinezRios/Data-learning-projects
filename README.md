@@ -34,7 +34,7 @@ Analysed a self made sample dataset to identify:
 2. Open the project folder you want to run
 3. Install the dependencies:
 
-  ```
+  ```bash
   pip install pandas matplotlib
 
 4. Run the Jupyter Notebook
