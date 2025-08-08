@@ -30,10 +30,13 @@ Analysed a self made sample dataset to identify:
 1. Clone the repository:
   ```bash
    git clone https://github.com/JoseMartinezRios/Data-learning-projects.git
+
 2. Open the project folder you want to run
 3. Install the dependencies:
-  bash
-  '''pip install pandas matplotlib'''
+
+  '''bash
+  pip install pandas matplotlib
+
 4. Run the Jupyter Notebook
 
 **Skills Practiced**
@@ -44,6 +47,6 @@ Analysed a self made sample dataset to identify:
 
 **CONTACT**
 [LindedIn](www.linkedin.com/in/jose-rios-31547a14a)
-[GitHub:] (https://github.com/JoseMartinezRios)
-[Facebook:] (https://www.facebook.com/profile.php?id=100017951595037)
+[GitHub](https://github.com/JoseMartinezRios)
+[Facebook] (https://www.facebook.com/profile.php?id=100017951595037)
 [Instagram] (https://www.instagram.com/wine.rios/)
