@@ -46,4 +46,4 @@ Analysed a self made sample dataset to identify:
 ***LindedIn:*** [www.linkedin.com/in/jose-rios-31547a14a]
 ***GitHub:*** [https://github.com/JoseMartinezRios]
 [*Facebook:*] [https://www.facebook.com/profile.php?id=100017951595037]
-*Instagram:* (https://www.instagram.com/wine.rios/)
+[Instagram:](https://www.instagram.com/wine.rios/)
