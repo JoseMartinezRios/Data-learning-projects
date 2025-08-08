@@ -20,7 +20,8 @@ Analysed a self made sample dataset to identify:
 3. Visualization of trends and categories
 
 **Files:**
-- 'Sales_analysis.ipynb' - Jupyter Notebook with code
+(Names change depending on the folder you're working with)
+- 'Sales_analysis.ipynb' - Jupyter Notebook with code 
 - 'sales_data.csv' - Example dataset
 
 --- 
@@ -41,6 +42,6 @@ Analysed a self made sample dataset to identify:
 
 **CONTACT**
 LindedIn: [www.linkedin.com/in/jose-rios-31547a14a]
-GitHub: []
+GitHub: [https://github.com/JoseMartinezRios]
 Facebook: [https://www.facebook.com/profile.php?id=100017951595037]
 Instagram: [https://www.instagram.com/wine.rios/]
